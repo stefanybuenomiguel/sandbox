@@ -8,3 +8,4 @@ testing
 
 
 testing
+stash example
