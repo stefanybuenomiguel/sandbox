@@ -1,2 +1,2 @@
 first line
-second one
+second one from the master
