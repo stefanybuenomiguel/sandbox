@@ -1,8 +1,3 @@
-# simple
-This is an exercise.
+Olá!
 
-I love to learn new things.
-
-Now I am writing to improve my skills...
-
-Final line. I love this!
+Este é meu espaço para testar algumas funcionalidades do Git. :) 
